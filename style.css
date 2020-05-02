@@ -1,0 +1,8 @@
+h1 {text-align: right; background-color: silver; color: #11AA33; font-size: 40px;}
+h3{border: double 3px; letter-spacing: 1mm;}
+.a1{color:blue;width: 50%; text-align: justify; text-indent: 5em; word-spacing: 1em; line-height:2em;}
+.a2{font-family: Arial; word-spacing: 15px; letter-spacing: 5px;}
+.a3{text-indent: 10%; font-weight: bold; text-decoration: overline;}
+ul{list-style-type: disc;}
+.list{background-color: #FFFFCC;}
+dt{font-weight: bold;}
